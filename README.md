@@ -18,9 +18,5 @@ This is a real-time chat application built using WebSocket (Socket.IO) that allo
 🔹 Backend: Node.js, Express.js, Socket.IO
 🔹 Real-Time Communication: WebSockets
 
-OUTPUT : 
-
-![image](https://github.com/user-attachments/assets/35f4ded5-666a-47f5-81b7-4cf68acbd0f5)
-
 
 
